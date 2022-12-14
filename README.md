@@ -5,6 +5,13 @@
 
 > Desktop app for resizing images
 
+## Clone
+
+```js
+git clone // repo UPL
+
+```
+
 ## Install
 
 ```sh
