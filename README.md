@@ -17,7 +17,7 @@ yarn install
 yarn start
 ```
 
-## Package
+## Package (Package windows app on mac is making by third-party utils)
 
 ```sh
 yarn package
