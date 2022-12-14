@@ -125,7 +125,7 @@ ipcMain.on('image:resize', (e, options) => {
 async function resizeImage({ imgPath, height, width, dest }) {
   try {
     // console.log(imgPath, height, width, dest);
-
+    console.log('something');
     // Resize image
     const newPath = await resizeImg(fs.readFileSync(imgPath), {
       width: +width,
